@@ -79,14 +79,6 @@ Computer Science graduate. I build backend systems, real-time architectures, and
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashgomte&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&border_color=222222&hide_border=false&count_private=true"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashgomte&layout=compact&theme=dark&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&border_color=222222&hide_border=false&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashgomte&bg_color=0d0d0d&color=ffffff&line=238636&point=3fb950&area=true&area_color=1a4428&hide_border=true&custom_title=Contribution+Graph)](https://github.com/yashgomte)
 
 </div>
