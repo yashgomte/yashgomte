@@ -74,17 +74,18 @@ Computer Science graduate. I build backend systems, real-time architectures, and
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
 ---
-
+ 
 ## GitHub Stats
-
+ 
 <div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashgomte&bg_color=0d0d0d&color=ffffff&line=238636&point=3fb950&area=true&area_color=1a4428&hide_border=true&custom_title=Contribution+Graph)](https://github.com/yashgomte)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashgomte/yashgomte/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashgomte/yashgomte/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/yashgomte/yashgomte/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 </div>
-
-
-
+ 
+ 
 ---
 
 ## Let's Connect
