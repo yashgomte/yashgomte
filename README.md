@@ -4,7 +4,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yashgomte&color=ffffff&style=flat&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=yashgomte&color=39ff14&style=flat&label=Profile+Views)
 &nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yash--gomte-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-gomte)
 &nbsp;&nbsp;
